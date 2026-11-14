@@ -56,3 +56,5 @@ sh tests/run_tests.sh         # the host tests and the simulator scenarios
 GPL-2.0-or-later (see [LICENSE](LICENSE)). It is built on [fm1-base](https://github.com/charlesvestal/fm1-base)
 (`base/`, MPL-2.0) and felucca-bsp, from Felucca by Leo Kuroshita (Hügelton Instruments); they keep their own
 licences.
+
+You can also try Berlinan in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
